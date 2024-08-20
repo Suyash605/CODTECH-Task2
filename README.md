@@ -33,5 +33,6 @@ Join Quiz App today and start testing your knowledge in a fun, interactive way!
 Output:
 ![Screenshot (54)](https://github.com/user-attachments/assets/a7b65269-c743-4020-b594-076df69b48b4)
 ![Screenshot (55)](https://github.com/user-attachments/assets/d4b2ab43-a586-49fd-a966-4ef8b8ac2817)
-![Screenshot (57)](https://github.com/user-attachments/assets/511f261b-5044-4cd8-834c-2e131c63cc89)
 ![Screenshot (58)](https://github.com/user-attachments/assets/e72878e7-f522-4363-be77-82abf2f9c358)
+![Screenshot (56)](https://github.com/user-attachments/assets/dd76954d-b436-47f9-a2cb-a85c6dde6911)
+![Screenshot (57)](https://github.com/user-attachments/assets/511f261b-5044-4cd8-834c-2e131c63cc89)
