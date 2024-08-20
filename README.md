@@ -32,4 +32,4 @@ Join Quiz App today and start testing your knowledge in a fun, interactive way!
 
 Output:
 ![Screenshot (54)](https://github.com/user-attachments/assets/a7b65269-c743-4020-b594-076df69b48b4)
-
+![Screenshot (58)](https://github.com/user-attachments/assets/e72878e7-f522-4363-be77-82abf2f9c358)
