@@ -29,3 +29,6 @@ Welcome to Quiz App, the ultimate destination for quiz enthusiasts! Our web-base
 *Responsive Design: Enjoy a smooth experience on any device, whether you're on your phone, tablet, or desktop.
 
 Join Quiz App today and start testing your knowledge in a fun, interactive way!
+
+Output:
+![Screenshot (54)](https://github.com/user-attachments/assets/cf8efac6-7651-499d-a086-8b69cc7236fc)
